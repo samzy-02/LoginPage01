@@ -1,0 +1,11 @@
+body{
+    background-color:rgb(255, 254, 254) ;
+}
+h1{
+    background-color: rgb(85, 40, 151);
+    text-align: center;
+}
+h1 a{
+    text-decoration: none;
+    color: aliceblue;
+}
