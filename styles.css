@@ -7,7 +7,8 @@
 .container-1{
     height: 100vh;
     width: 100%;
-    background-image: linear-gradient(to bottom, rgb(85, 40, 151) 50%,#ffffff 50%);
+       background-image: linear-gradient(to bottom, rgb(252, 252, 252) 50%,#ffffff 50%);
+
     display: flex;
     flex-direction: row;
 }
