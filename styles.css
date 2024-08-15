@@ -143,6 +143,9 @@
 }
 
 @media (max-width: 360px) {
+     .container-1{
+        background: transparent;
+    }
     #container-2{
         display: none;
     }
@@ -170,6 +173,9 @@
 }
 
 @media (max-width: 390px) {
+     .container-1{
+        background: transparent;
+    }
     #container-2{
         display: none;
     }
@@ -194,6 +200,9 @@
 }
 
 @media (max-width: 414px) {
+     .container-1{
+        background: transparent;
+    }
     #container-2{
         display: none;
     }
@@ -223,6 +232,9 @@
     }
 }
 @media (max-width: 430px) {
+     .container-1{
+        background: transparent;
+    }
     #container-2{
         display: none;
     }
